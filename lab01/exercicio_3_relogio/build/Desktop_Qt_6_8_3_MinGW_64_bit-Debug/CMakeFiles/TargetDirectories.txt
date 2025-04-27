@@ -1,0 +1,7 @@
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/exercicio_3_relogio.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/antho/Documents/--- AULAS IFSC ---/5º SEMESTRE (2025.1)/PROGRAMAÇÃO ORIENTADA A OBJETOS/laboratorios/lab01/exercicio_3_relogio/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

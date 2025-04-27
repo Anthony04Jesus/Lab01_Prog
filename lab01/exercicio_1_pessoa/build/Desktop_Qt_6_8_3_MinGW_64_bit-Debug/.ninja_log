@@ -1,0 +1,10 @@
+# ninja log v6
+16	390	7674825187071000	CMakeFiles/exercicio_1_pessoa.dir/main.cpp.obj	71869ae3110f515b
+20	393	7674825187111009	CMakeFiles/exercicio_1_pessoa.dir/pessoa.cpp.obj	53c2d305073125b2
+394	598	7674825190851593	exercicio_1_pessoa.exe	2a76a895d84f8903
+18	320	7674825370302891	CMakeFiles/exercicio_1_pessoa.dir/main.cpp.obj	71869ae3110f515b
+320	400	7674825373326192	exercicio_1_pessoa.exe	2a76a895d84f8903
+18	327	7674825740956177	CMakeFiles/exercicio_1_pessoa.dir/main.cpp.obj	71869ae3110f515b
+327	407	7674825744057366	exercicio_1_pessoa.exe	2a76a895d84f8903
+16	326	7674826129144122	CMakeFiles/exercicio_1_pessoa.dir/main.cpp.obj	71869ae3110f515b
+327	406	7674826132247338	exercicio_1_pessoa.exe	2a76a895d84f8903
