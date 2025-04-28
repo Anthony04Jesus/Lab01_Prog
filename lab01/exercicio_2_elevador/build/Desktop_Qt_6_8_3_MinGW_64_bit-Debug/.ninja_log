@@ -1,0 +1,11 @@
+# ninja log v6
+5	292	7675105793691978	CMakeFiles/exercicio_2_elevador.dir/elevador.cpp.obj	759b91be55578420
+1	317	7675105793661546	CMakeFiles/exercicio_2_elevador.dir/main.cpp.obj	a3a14b8ef3e18605
+16	319	7675106045332112	CMakeFiles/exercicio_2_elevador.dir/main.cpp.obj	a3a14b8ef3e18605
+319	390	7675106048374133	exercicio_2_elevador.exe	cd1800b2af86659c
+21	325	7675122563263746	CMakeFiles/exercicio_2_elevador.dir/elevador.cpp.obj	759b91be55578420
+17	339	7675122563222787	CMakeFiles/exercicio_2_elevador.dir/main.cpp.obj	a3a14b8ef3e18605
+339	423	7675122566438259	exercicio_2_elevador.exe	cd1800b2af86659c
+26	382	7675519517391315	CMakeFiles/exercicio_2_elevador.dir/main.cpp.obj	a3a14b8ef3e18605
+31	383	7675519517433798	CMakeFiles/exercicio_2_elevador.dir/elevador.cpp.obj	759b91be55578420
+384	567	7675519520959596	exercicio_2_elevador.exe	cd1800b2af86659c
